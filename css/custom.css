@@ -1,0 +1,10 @@
+
+@media (min-width: 992px) {
+    .navbar-expand-lg {
+        justify-content:space-between !important;
+    }
+    .navbar-collapse{
+        flex-grow:unset !important;
+        justify-content:flex-end !important;
+    }
+}
